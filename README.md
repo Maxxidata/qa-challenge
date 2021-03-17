@@ -58,7 +58,7 @@ Dicas:
 ```
 
 # Com o que nos preocupamos :dart:
-- Primeiramente em deixar claro que o desfio não tem caráter de eliminação;
+- Primeiramente em deixar claro que o desafio não tem caráter de eliminação;
 - Com certeza muito mais do que o desafio completo é avaliarmos suas competências e habilidades até o ponto em que chegou. Procure demonstrar o seu conhecimento, sem medo de errar ou ser criticado, buscamos apenas conhecer você e a sua forma de pensar. Você pode utilizar o arquivo `README.md` do seu projeto também para explicar algum detalhe de interpretação ou demonstrar o seu ponto de vista em relação à algum detalhe da específicação que não esteja claro;
 - O que buscamos entender com este desafio é: sua habilidade em analisar e revisar documentação, sua habilidade de derivar casos de teste, sua habilidade de automatizar testes de API e sua habilidade de programação;
 - Sabemos que nem todos temos o mesmo tempo disponível, então como dissemos fique a vontade para ir até onde conseguir ou solicitar mais tempo para o processo, transparência total.
